@@ -1,4 +1,4 @@
-# FlashCards+
+# FlashCards
 
 ![.NET](https://img.shields.io/badge/.NET-8%2B-512BD4?logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-console-239120?logo=csharp&logoColor=white)
